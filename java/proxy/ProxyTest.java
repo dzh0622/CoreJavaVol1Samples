@@ -5,6 +5,9 @@ import java.lang.reflect.Proxy;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * 6.5 Proxies
+ */
 public class ProxyTest {
 
     public static void main(String[] args) {
